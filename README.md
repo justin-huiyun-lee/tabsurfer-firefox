@@ -38,3 +38,7 @@ This was an idea that my friend [**Mahasvin24**](https://github.com/Mahasvin24) 
    I just put the manifest.json into firefox's extension tester and it worked. I'm pretty sure it doesn't work on other browsers cuz I'm using firefox API to get all the tabs to put in sessions.
 
 Also I released this code on github. its open source. I'm not tryna make money off of this. I just wanted to make this for myself and I thought it would be cool to share it with others.
+
+I built this on macOS.
+
+Also, please tell me if there are any security vulnerabilities or something that might get my computer hacked lmao. I made this in like an hour or two and want to use it myself without getting hacked or something
