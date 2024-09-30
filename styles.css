@@ -1,0 +1,118 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  width: 400px;
+}
+
+#sessionList {
+  list-style-type: none;
+  padding: 0;
+}
+
+#sessionName {
+  appearance: none;
+  border: none;
+  outline: none;
+  border-bottom: 0.2em solid #283593;
+  background: rgba(#283593, 0.2);
+  border-radius: 0.2em 0.2em 0 0;
+  padding: 0.4em;
+  color: #283593;
+}
+
+.button_container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.textinput_container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.list-item-buttons-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.list-item-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.list-item-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.list-item-text {
+  font-size: 16px;
+}
+
+.button_context {
+  margin-top: 0;
+  font-size: 14px;
+  color: #c2c1c1;
+}
+
+.button-2 {
+  background-color: rgba(51, 51, 51, 0.05);
+  border-radius: 8px;
+  border-width: 0;
+  color: #333333;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 10px 12px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.logo_container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.logo_image {
+  width: 100px;
+  height: 100px;
+}
+
+.title_container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+}
+
+button {
+  margin-left: 5px;
+}

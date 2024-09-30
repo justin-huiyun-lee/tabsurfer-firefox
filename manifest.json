@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Tab Session Manager",
+  "version": "1.0",
+  "description": "Organize tabs into sessions, similar to tmux for browsers.",
+  "permissions": ["tabs", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/tabsurfer-logo.png",
+      "48": "assets/tabsurfer-logo.png",
+      "128": "assets/tabsurfer-logo.png"
+    }
+  },
+  "icons": {
+    "16": "assets/tabsurfer-logo.png",
+    "48": "assets/tabsurfer-logo.png",
+    "128": "assets/tabsurfer-logo.png"
+  },
+  "applications": {
+    "gecko": {
+      "id": "tabsurfer@example.com"
+    }
+  }
+}

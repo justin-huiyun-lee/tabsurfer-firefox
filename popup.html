@@ -1,0 +1,36 @@
+<!-- popup.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="logo_container">
+      <img
+        class="logo_image"
+        src="/assets/tabsurfer-logo.png"
+        alt="Tab Surfer Logo"
+      />
+    </div>
+    <div class="title_container">
+      <h1 class="title">TabSurfer</h1>
+    </div>
+    <div class="textinput_container">
+      <input type="text" id="sessionName" placeholder="Session name" />
+    </div>
+    <div class="button_container">
+      <button id="save" class="button-2" role="button">Save Session</button>
+    </div>
+    <div class="button_container">
+      <p class="button_context">
+        saves all currently<br />
+        open tabs
+      </p>
+    </div>
+    <div class="title_container">
+      <h2 class="title">Saved Sessions</h2>
+    </div>
+    <ul id="sessionList"></ul>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
