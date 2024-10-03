@@ -21,9 +21,9 @@
     "48": "assets/tabsurfer-logo.png",
     "128": "assets/tabsurfer-logo.png"
   },
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
-      "id": "tabsurfer@example.com"
+      "id": "tabsurfer@5nsou.cool"
     }
   }
 }
