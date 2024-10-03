@@ -88,7 +88,6 @@ body {
   -webkit-user-select: none;
   touch-action: manipulation;
 }
-
 .logo_container {
   margin-top: 20px;
   display: flex;
@@ -115,4 +114,10 @@ li {
 
 button {
   margin-left: 5px;
+}
+
+.coffee-container {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 40px;
 }
