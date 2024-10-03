@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "TabSurfer",
-  "version": "1.0",
+  "version": "1.01",
   "description": "Organize tabs into sessions, similar to tmux for browsers.",
   "permissions": ["tabs", "storage"],
   "background": {
