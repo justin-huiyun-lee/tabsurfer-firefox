@@ -11,7 +11,12 @@ If you've used Tmux before you'll be familiar with this concept. You can name yo
 This was an idea that my friend [**Mahasvin24**](https://github.com/Mahasvin24) and I worked on (but failed) during a hackathon. I unironically needed this so I tried to rebuild it.
 
 ## How to install
-Just go to firefox addons store and search TabSurfer. 
+
+Just go to firefox addons store and search TabSurfer.
 
 Here's the link to the page
 [https://addons.mozilla.org/en-US/firefox/addon/tabsurfer/](https://addons.mozilla.org/en-US/firefox/addon/tabsurfer/)
+
+If you find this extension useful, please consider donating. I am broke.
+
+[![Donate](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/5nsou)
